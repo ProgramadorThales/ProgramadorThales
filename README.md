@@ -6,8 +6,8 @@
 - ⚡ Fun fact: Amo programar
 <div align="center">
   <a href="https://github.com/ProgramadorThales">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ProgramadorThales&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorThales&layout=compact&langs_count=7&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ProgramadorThales&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorThales&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="right" alt="Thales-pic" height="150" style="border-radius: 50px" src="https://c.tenor.com/9VgHiYp9lRIAAAAd/dev-developer.gif">
