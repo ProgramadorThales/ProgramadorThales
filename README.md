@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Amo programar
 <div align="center">
-  <a href="https://github.com/ProgramadorThales">
+  <a href="https://github.com/ProgramadorThales?tab=repositories">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ProgramadorThales&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramadorThales&layout=compact&langs_count=7&theme=radical"/>
 </div>
